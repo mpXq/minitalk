@@ -47,7 +47,7 @@ clean:
 fclean:		clean
 			$(RM) server client
 
-re:			fclean $(NAME) 
+re:			fclean $(NAME) $(NAME1)
 			
 .PHONY: all clean fclean re bonus
 
