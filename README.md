@@ -1,5 +1,5 @@
 # minitalk
-Talk with yourself
+Communicate with signals
 ```
 With this project, we learn the communication between programs through different signals.
 The goal of this one is to create a server and a client,
